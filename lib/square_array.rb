@@ -5,7 +5,7 @@ def square_array(numbers)
   while counter < numbers.length do
     puts numbers[counter] = numbers[counter] * numbers[counter]
     counter += 1
-    puts square_array(numbers)
   end
 end
 
+numbers
