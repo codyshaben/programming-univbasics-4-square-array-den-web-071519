@@ -1,5 +1,5 @@
 numbers = [1,2,3]
-square = numbers * numbers
+square *= numbers
 
 def square_array(numbers)
   counter = 0
